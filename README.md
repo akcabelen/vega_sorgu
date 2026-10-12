@@ -70,3 +70,7 @@ npm run dev      # http://localhost:5173
 - Tarih parametreleri parametreli sorgu ile gönderilir.
 - `config.json` parolayı PIN'den türetilen AES-256 anahtarıyla şifreler. **Not:** PIN 6 haneli olduğundan anahtar uzayı kısıtlıdır; yalnızca yerel/güvenli ortam içindir.
 - Yalnızca localhost kullanımı içindir.
+
+---
+
+**Lisans:** Kaynak kod tescillidir — tüm hakları saklıdır. İzinsiz kullanılamaz, kopyalanamaz, dağıtılamaz ya da satılamaz. Ayrıntı: [LICENSE](LICENSE).
